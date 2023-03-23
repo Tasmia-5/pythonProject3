@@ -5,7 +5,7 @@ def menu():
     print("Menu\n-------------")
     print("1. Encode\n2. Decode\n3. Quit")
     print()
-    print("Hey")
+    print("Heyo")
 
 def password_encode(password):
     encoded = password
